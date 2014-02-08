@@ -1,0 +1,26 @@
+{
+  "name": "mails-default",
+  "version": "0.0.1",
+  "view engine": "swig",
+  "description": "the default theme of mails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turingou/mails-default.git"
+  },
+  "keywords": [
+    "mails",
+    "theme"
+  ],
+  "author": "turing <o.u.turing@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/mails-default/issues"
+  },
+  "dependencies": {
+    "swig": "*"
+  }
+}
