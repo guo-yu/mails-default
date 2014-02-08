@@ -9,6 +9,14 @@ the default theme of mails.
 $ npm install mails-default
 ````
 
+### Templates
+
+- mails-default/basic
+- mails-default/hero
+- mails-default/newsletter
+- mails-default/sidebar
+- mails-default/sidebar-hero
+
 ### Example
 ````javascript
 var mails = require('mails');
