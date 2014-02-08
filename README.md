@@ -1,6 +1,6 @@
 ## ![logo](http://ww2.sinaimg.cn/large/61ff0de3gw1eajmy0wdikj2014014wea.jpg) mails-default ![npm](https://badge.fury.io/js/mails-default.png)
 
-the default email templates for mails.
+the default theme of mails.
 
 ![screenshot](http://ww2.sinaimg.cn/large/61ff0de3gw1eapg3os39oj20kt0f9q4j.jpg)
 
@@ -13,7 +13,7 @@ $ npm install mails-default
 ````javascript
 var mails = require('mails');
 
-mails.render('mails-default/hero', function(err, html){
+mails.render('mails-default/hero', {...} function(err, html){
     console.log(html);
 });
 ````
