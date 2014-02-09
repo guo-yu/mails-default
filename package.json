@@ -20,9 +20,6 @@
   "bugs": {
     "url": "https://github.com/turingou/mails-default/issues"
   },
-  "dependencies": {
-    "swig": "*"
-  },
   "title": "中午吃完饭，狗熊，鳄鱼，跳跳蛇在墙角晒太阳，黄鼠狼爬上房顶朝下说：”看苍茫大地~”",
   "site": {
     "name": "test",
